@@ -1,0 +1,37 @@
+_repo: Essays-Upon-Heredity-and-Kindred-Biological-Problems-Authorised-Translation_48132
+contributor:
+  creator:
+    editors:
+    - agent_name: Poulton, Edward Bagnall
+      gutenberg_agent_id: '44633'
+      url: http://www.gutenberg.org/2009/agents/44633
+    - agent_name: Shipley, Arthur Everett
+      gutenberg_agent_id: '44635'
+      url: http://www.gutenberg.org/2009/agents/44635
+    - agent_name: Schönland, Selmar
+      gutenberg_agent_id: '44634'
+      url: http://www.gutenberg.org/2009/agents/44634
+creator:
+  author:
+    agent_name: Weismann, August
+    aliases:
+    - Weismann, A. (August)
+    - Weismann, Friedrich Leopold August
+    birthdate: 1834
+    deathdate: 1914
+    gutenberg_agent_id: '25331'
+    url: http://www.gutenberg.org/2009/agents/25331
+    wikipedia: http://en.wikipedia.org/wiki/August_Weismann
+description: ''
+gutenberg_issued: '2015-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Essays Upon Heredity and Kindred Biological Problems
+
+  Authorised Translation'
+url: http://www.gutenberg.org/ebooks/48132
