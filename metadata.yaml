@@ -1,4 +1,5 @@
 _repo: Essays-Upon-Heredity-and-Kindred-Biological-Problems-Authorised-Translation_48132
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -11,6 +12,9 @@ contributor:
     - agent_name: Schönland, Selmar
       gutenberg_agent_id: '44634'
       url: http://www.gutenberg.org/2009/agents/44634
+covers:
+- cover_type: archival
+  image_path: 48132-h/images/cover.jpg
 creator:
   author:
     agent_name: Weismann, August
@@ -23,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25331
     wikipedia: http://en.wikipedia.org/wiki/August_Weismann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48132#Essays-Upon-Heredity-and-Kindred-Biological-Problems-Authorised-Translation
 gutenberg_issued: '2015-02-01'
 gutenberg_type: Text
 identifiers:
